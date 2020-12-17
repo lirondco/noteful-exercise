@@ -1,0 +1,21 @@
+label, .add_folder_error {
+    color: white;
+}
+
+.AddFolder__add-folder-button {
+    margin: 20px;
+    display: block;
+    float: right;
+    width: fit-content;
+}
+
+.add-folder-form {
+    display: grid;
+    padding: 20px;
+}
+
+input {
+    width: fit-content;
+    margin: 20px;
+}
+
